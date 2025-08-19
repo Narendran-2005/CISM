@@ -88,7 +88,7 @@ This system simulates a real-world Security Operations Center (SOC) workflow whe
 
 ---
 
-## 🗂️ Models (Entities)
+## Models (Entities)
 - `Incident`
 - `Evidence`
 - `Log`
@@ -103,7 +103,7 @@ This system simulates a real-world Security Operations Center (SOC) workflow whe
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/Narendran-2005/CISM.git
